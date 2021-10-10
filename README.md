@@ -5,6 +5,7 @@ This app is a platform created so that users can easily share ideas and thoughts
 
 ## Website
 The live version can be found here https://fathomless-sierra-31365.herokuapp.com/
+
 ![deep-thoughts](https://user-images.githubusercontent.com/77707292/136698321-e684594f-bbf0-442b-ab9e-6529981e8ec8.png)
 
 ## Installation
