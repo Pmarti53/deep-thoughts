@@ -14,9 +14,9 @@ Follow this link https://github.com/Pmarti53/deep-thoughts and clone the code. F
 
 
 ## Technologies Used
-  -MongoDb with Mongoose ODM
-  -React
-  -GraphQL with Apollo Client
+  * MongoDb with Mongoose ODM
+  * React
+  * GraphQL with Apollo Client
   
 ## Github
 Pmarti53
